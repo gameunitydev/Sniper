@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: a6976bf64fb47fd4683cc729fd3fcc8f
+timeCreated: 1450481680
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bar
+    100002: base
+    100004: guns
+    100006: gunsBarGrp
+    100008: l_gun
+    100010: l_missileGrp
+    100012: missile
+    100014: missile1
+    100016: missile10
+    100018: missile11
+    100020: missile2
+    100022: missile3
+    100024: missile4
+    100026: missile5
+    100028: missile6
+    100030: missile7
+    100032: missile8
+    100034: missile9
+    100036: //RootNode
+    100038: r_gun
+    100040: r_missleGrp
+    400000: bar
+    400002: base
+    400004: guns
+    400006: gunsBarGrp
+    400008: l_gun
+    400010: l_missileGrp
+    400012: missile
+    400014: missile1
+    400016: missile10
+    400018: missile11
+    400020: missile2
+    400022: missile3
+    400024: missile4
+    400026: missile5
+    400028: missile6
+    400030: missile7
+    400032: missile8
+    400034: missile9
+    400036: //RootNode
+    400038: r_gun
+    400040: r_missleGrp
+    2300000: bar
+    2300002: base
+    2300004: l_gun
+    2300006: missile
+    2300008: missile1
+    2300010: missile10
+    2300012: missile11
+    2300014: missile2
+    2300016: missile3
+    2300018: missile4
+    2300020: missile5
+    2300022: missile6
+    2300024: missile7
+    2300026: missile8
+    2300028: missile9
+    2300030: r_gun
+    3300000: bar
+    3300002: base
+    3300004: l_gun
+    3300006: missile
+    3300008: missile1
+    3300010: missile10
+    3300012: missile11
+    3300014: missile2
+    3300016: missile3
+    3300018: missile4
+    3300020: missile5
+    3300022: missile6
+    3300024: missile7
+    3300026: missile8
+    3300028: missile9
+    3300030: r_gun
+    4300000: missile9
+    4300002: missile7
+    4300004: missile10
+    4300006: missile11
+    4300008: missile8
+    4300010: missile
+    4300012: missile4
+    4300014: missile1
+    4300016: missile3
+    4300018: missile2
+    4300020: missile6
+    4300022: missile5
+    4300024: r_gun
+    4300026: l_gun
+    4300028: bar
+    4300030: base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

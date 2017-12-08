@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: e35a8b9c005814c47879c0d0f69abc30
+timeCreated: 1503384483
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: LOD0
+    100002: LOD1
+    100004: LOD2
+    100006: Mothership_Hull
+    100008: Mothership_Hull 1
+    100010: Mothership_Hull 2
+    100012: Mothership_Ring1
+    100014: Mothership_Ring1 1
+    100016: Mothership_Ring1 2
+    100018: Mothership_Ring2
+    100020: Mothership_Ring2 1
+    100022: Mothership_Ring2 2
+    100024: //RootNode
+    400000: LOD0
+    400002: LOD1
+    400004: LOD2
+    400006: Mothership_Hull
+    400008: Mothership_Hull 1
+    400010: Mothership_Hull 2
+    400012: Mothership_Ring1
+    400014: Mothership_Ring1 1
+    400016: Mothership_Ring1 2
+    400018: Mothership_Ring2
+    400020: Mothership_Ring2 1
+    400022: Mothership_Ring2 2
+    400024: //RootNode
+    2300000: Mothership_Hull
+    2300002: Mothership_Hull 1
+    2300004: Mothership_Hull 2
+    2300006: Mothership_Ring1
+    2300008: Mothership_Ring1 1
+    2300010: Mothership_Ring1 2
+    2300012: Mothership_Ring2
+    2300014: Mothership_Ring2 1
+    2300016: Mothership_Ring2 2
+    3300000: Mothership_Hull
+    3300002: Mothership_Hull 1
+    3300004: Mothership_Hull 2
+    3300006: Mothership_Ring1
+    3300008: Mothership_Ring1 1
+    3300010: Mothership_Ring1 2
+    3300012: Mothership_Ring2
+    3300014: Mothership_Ring2 1
+    3300016: Mothership_Ring2 2
+    4300000: Mothership_Hull
+    4300002: Mothership_Ring1
+    4300004: Mothership_Ring2
+    4300006: Mothership_Hull
+    4300008: Mothership_Ring1
+    4300010: Mothership_Ring2
+    4300012: Mothership_Hull
+    4300014: Mothership_Ring1
+    4300016: Mothership_Ring2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
